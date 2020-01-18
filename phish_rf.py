@@ -15,6 +15,7 @@ from sklearn.ensemble import RandomForestClassifier
 import joblib
 import urllib.request as urllib2
 
+#Enter your Url below
 url = "https://testingazznmaccounts.com/"
 
 
